@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Prata&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Prata&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&family=Prata&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+     
+
+    .main-section{
+        padding:20px
+    }
+
+    .image-container{
+
+        background-image: url("img/cala-pregonda-destacada.jpg");
+background-size: 500px;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+
+
+    h1{
+        font-family: 'Prata',sans-serif;
+        font-size: 64px;
+        font-weight: 400;
+          }
+
+    h1{
+        margin-bottom: 0%;
+        color:black
+    }
+
+    h3{
+font-family: 'Prata', sans-serif;
+font-size: 24px;
+font-weight: 400;
+margin: 1em;
+color: whi;
+    }
+    
+h3{
+
+    margin-bottom: 0%;
+
+}
+
+body{
+    font-family: 'Montserrat',sans-serif;
+}
+
+h6{
+    padding: 22px;
+    margin-bottom:0px;
+    margin-top: 56px;
+    border-radius: 6px;
+}
+
+h6{
+    color: rgb(255, 255, 255);
+        background: linear-gradient(120deg,#b36720, #2e56c7)
+
+}
+
+
+ul{
+    background: linear-gradient(120deg,#b36720, #2e56c7)
+}
+
+ul{
+list-style-type:none;
+}
+
+ul{
+    padding:0
+}
+
+li{
+    padding-top: 6px; padding-bottom: 6px; padding-left: 22px;
+border-bottom: 5px; border-color: #dfdfdf;
+}
+
+a{
+  text-decoration: none;
+}
